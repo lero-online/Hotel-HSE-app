@@ -1,1 +1,249 @@
+{
+  "HotelGaststaetten_HSE_CompleteLibrary": {
+    "ZimmerHousekeeping": [
+      {
+        "Tätigkeit": "Zimmerreinigung",
+        "Gefährdungen": [
+          {"Gefährdung": "Rücken- und Gelenkbelastung durch Heben, Bücken, Strecken", "Typ": "Physisch"},
+          {"Gefährdung": "Rutsch- und Stolpergefahr auf nassen Böden", "Typ": "Physisch"},
+          {"Gefährdung": "Kontakt mit Reinigungsmitteln / Chemikalien", "Typ": "Chemisch"},
+          {"Gefährdung": "Infektionsrisiko bei kontaminierten Oberflächen", "Typ": "Biologisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Bettwäsche wechseln",
+        "Gefährdungen": [
+          {"Gefährdung": "Rückenbelastung beim Heben schwerer Matratzen / Betten", "Typ": "Physisch"},
+          {"Gefährdung": "Stauballergien / Hautreizungen", "Typ": "Physisch/Biologisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Sanitärreinigung im Zimmer",
+        "Gefährdungen": [
+          {"Gefährdung": "Rutsch-/Sturzgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Kontakt mit Reinigungsmitteln / Desinfektionsmitteln", "Typ": "Chemisch"},
+          {"Gefährdung": "Infektionsrisiko", "Typ": "Biologisch"}
+        ]
+      }
+    ],
+    "RestaurantBar": [
+      {
+        "Tätigkeit": "Servieren von Speisen / Getränken",
+        "Gefährdungen": [
+          {"Gefährdung": "Rücken- und Schulterbelastung durch Tragen schwerer Tabletts", "Typ": "Physisch"},
+          {"Gefährdung": "Rutsch-/Sturzgefahr auf nassen Böden", "Typ": "Physisch"},
+          {"Gefährdung": "Verbrennungen durch heiße Getränke / Speisen", "Typ": "Physisch"},
+          {"Gefährdung": "Stress durch hohes Gästeaufkommen", "Typ": "Psychisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Zubereitung von Getränken an der Bar",
+        "Gefährdungen": [
+          {"Gefährdung": "Schnittverletzungen durch Flaschen / Messer / Öffner", "Typ": "Physisch"},
+          {"Gefährdung": "Rückenbelastung durch langes Stehen", "Typ": "Physisch"},
+          {"Gefährdung": "Chemische Exposition bei Reinigungsmitteln", "Typ": "Chemisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Reinigung von Böden / Gläsern",
+        "Gefährdungen": [
+          {"Gefährdung": "Rutschgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Chemische Exposition", "Typ": "Chemisch"},
+          {"Gefährdung": "Schnittverletzungen durch Glasscherben", "Typ": "Physisch"}
+        ]
+      }
+    ],
+    "WellnessSpaFitness": [
+      {
+        "Tätigkeit": "Sauna / Dampfbad betreiben",
+        "Gefährdungen": [
+          {"Gefährdung": "Verbrennungsgefahr durch heiße Oberflächen / Wasser", "Typ": "Physisch"},
+          {"Gefährdung": "Rutsch-/Sturzgefahr auf nassen Böden", "Typ": "Physisch"},
+          {"Gefährdung": "Überhitzung / Kreislaufprobleme bei Gästen", "Typ": "Physisch"},
+          {"Gefährdung": "Infektionsrisiko durch Wasser / Luft (Pilze, Bakterien)", "Typ": "Biologisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Fitnessbereich betreuen / Geräte warten",
+        "Gefährdungen": [
+          {"Gefährdung": "Quetschungen durch Geräte", "Typ": "Physisch"},
+          {"Gefährdung": "Rutschgefahr durch verschüttetes Wasser", "Typ": "Physisch"},
+          {"Gefährdung": "Belastung der Wirbelsäule bei Gerätewartung", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Schwimmbad / Beckenpflege",
+        "Gefährdungen": [
+          {"Gefährdung": "Ertrinkungsgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Chemische Exposition durch Chlor / Desinfektionsmittel", "Typ": "Chemisch"},
+          {"Gefährdung": "Rutschgefahr auf nassen Flächen", "Typ": "Physisch"},
+          {"Gefährdung": "Infektionsrisiko durch Wasser", "Typ": "Biologisch"}
+        ]
+      }
+    ],
+    "AussenanlagenGartenWinterdienst": [
+      {
+        "Tätigkeit": "Gartenpflege / Grünflächen",
+        "Gefährdungen": [
+          {"Gefährdung": "Schnitt- und Quetschverletzungen durch Geräte", "Typ": "Physisch"},
+          {"Gefährdung": "Stolper- / Sturzgefahr auf unebenem Gelände", "Typ": "Physisch"},
+          {"Gefährdung": "UV-Strahlung / Sonnenbrand", "Typ": "Physisch"},
+          {"Gefährdung": "Insektenstiche / Allergien", "Typ": "Biologisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Rasenmähen / Heckenschneiden",
+        "Gefährdungen": [
+          {"Gefährdung": "Schnittverletzungen", "Typ": "Physisch"},
+          {"Gefährdung": "Lärm / Gehörschäden", "Typ": "Physisch"},
+          {"Gefährdung": "Ermüdung durch körperliche Belastung", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Winterdienst / Schneeräumen / Streuen",
+        "Gefährdungen": [
+          {"Gefährdung": "Rutsch- / Sturzgefahr auf Eis / Schnee", "Typ": "Physisch"},
+          {"Gefährdung": "Kälte / Erfrierungen", "Typ": "Physisch"},
+          {"Gefährdung": "Rückenbelastung beim Schneeschaufeln", "Typ": "Physisch"}
+        ]
+      }
+    ],
+    "VeranstaltungenKonferenzraeume": [
+      {
+        "Tätigkeit": "Aufbau von Stühlen / Tischen / Bühne",
+        "Gefährdungen": [
+          {"Gefährdung": "Quetschungen / Schnittverletzungen", "Typ": "Physisch"},
+          {"Gefährdung": "Rückenbelastung / Muskel-Skelett-Erkrankungen", "Typ": "Physisch"},
+          {"Gefährdung": "Stolper-/Sturzgefahr durch Kabel / Dekoration", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Technik / Audio-Video aufbauen",
+        "Gefährdungen": [
+          {"Gefährdung": "Stromschlag / Elektrounfälle", "Typ": "Elektrisch"},
+          {"Gefährdung": "Absturzgefahr bei Leitern / Podesten", "Typ": "Physisch"},
+          {"Gefährdung": "Lärmbelastung / Hörschäden", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Service während Veranstaltungen",
+        "Gefährdungen": [
+          {"Gefährdung": "Rutsch-/Sturzgefahr auf Böden", "Typ": "Physisch"},
+          {"Gefährdung": "Verbrennungen durch heiße Speisen/Getränke", "Typ": "Physisch"},
+          {"Gefährdung": "Stress / psychische Belastung", "Typ": "Psychisch"}
+        ]
+      }
+    ],
+    "VerwaltungBackoffice": [
+      {
+        "Tätigkeit": "Büroarbeit / Computerarbeit",
+        "Gefährdungen": [
+          {"Gefährdung": "Ergonomische Belastung durch Bildschirmarbeit", "Typ": "Physisch"},
+          {"Gefährdung": "Sehbelastung / Augenprobleme", "Typ": "Physisch"},
+          {"Gefährdung": "Psychische Belastung durch Termindruck / Stress", "Typ": "Psychisch"},
+          {"Gefährdung": "Rücken- und Nackenbelastung durch falsches Sitzen", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Telefonische Kundenbetreuung / Buchungen",
+        "Gefährdungen": [
+          {"Gefährdung": "Stress durch hohen Arbeitsdruck", "Typ": "Psychisch"},
+          {"Gefährdung": "Belastung der Stimme / Sprechorgane", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Empfang / Check-In / Check-Out",
+        "Gefährdungen": [
+          {"Gefährdung": "Psychischer Stress durch schwierige Gäste", "Typ": "Psychisch"},
+          {"Gefährdung": "Rückenbelastung durch langes Stehen", "Typ": "Physisch"},
+          {"Gefährdung": "Kontakt mit Krankheitserregern", "Typ": "Biologisch"}
+        ]
+      }
+    ],
+    "Haustechnik": [
+      {
+        "Tätigkeit": "Elektrik / Installationen / Wartung",
+        "Gefährdungen": [
+          {"Gefährdung": "Stromschlag / Elektrounfälle", "Typ": "Elektrisch"},
+          {"Gefährdung": "Brandgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Sturzgefahr bei Arbeiten auf Leitern / Gerüsten", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Sanitär / Rohrleitungen / Abwasser",
+        "Gefährdungen": [
+          {"Gefährdung": "Kontakt mit Abwasser / Infektionsgefahr", "Typ": "Biologisch"},
+          {"Gefährdung": "Rückenbelastung beim Heben von Rohren / Geräten", "Typ": "Physisch"},
+          {"Gefährdung": "Verbrühungen / Verbrennungen", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Heizung / Klima / Lüftung",
+        "Gefährdungen": [
+          {"Gefährdung": "Verbrennungsgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Chemische Exposition (Kühlmittel)", "Typ": "Chemisch"},
+          {"Gefährdung": "Sturzgefahr bei Wartungsarbeiten", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Aufzüge / Förderanlagen",
+        "Gefährdungen": [
+          {"Gefährdung": "Quetschungen / Absturzgefahr", "Typ": "Physisch"},
+          {"Gefährdung": "Stromschlag / Elektrounfälle", "Typ": "Elektrisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Brandschutz / Notfalltechnik",
+        "Gefährdungen": [
+          {"Gefährdung": "Brandverletzungen", "Typ": "Physisch"},
+          {"Gefährdung": "Rauchinhalation / Atemschutz erforderlich", "Typ": "Physisch/Biologisch"},
+          {"Gefährdung": "Sturzgefahr bei Evakuierungsübungen", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Notstrom / Generatoren / technische Anlagen",
+        "Gefährdungen": [
+          {"Gefährdung": "Stromschlag / Elektrounfälle", "Typ": "Elektrisch"},
+          {"Gefährdung": "Lärmbelastung", "Typ": "Physisch"},
+          {"Gefährdung": "Abgase / Kohlenmonoxid", "Typ": "Chemisch"}
+        ]
+      }
+    ],
+    "LogistikLagerWarenannahme": [
+      {
+        "Tätigkeit": "Warenannahme / Lieferkontrolle",
+        "Gefährdungen": [
+          {"Gefährdung": "Quetschungen beim Entladen", "Typ": "Physisch"},
+          {"Gefährdung": "Rückenbelastung beim Heben schwerer Kartons", "Typ": "Physisch"},
+          {"Gefährdung": "Kontakt mit chemischen Reinigungsmitteln / Lebensmitteln", "Typ": "Chemisch/Biologisch"},
+          {"Gefährdung": "Rutsch- / Sturzgefahr durch verschüttete Flüssigkeiten", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Lagerung von Lebensmitteln / Getränken",
+        "Gefährdungen": [
+          {"Gefährdung": "Heben / Tragen schwerer Kisten", "Typ": "Physisch"},
+          {"Gefährdung": "Kälte / Gefrierbrand im Kühl-/Gefrierlager", "Typ": "Physisch"},
+          {"Gefährdung": "Schimmel / Bakterien bei unsachgemäßer Lagerung", "Typ": "Biologisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Kommissionierung / Umlagern von Waren",
+        "Gefährdungen": [
+          {"Gefährdung": "Rücken- und Gelenkbelastung", "Typ": "Physisch"},
+          {"Gefährdung": "Sturzgefahr bei Leitern / Hubwagen", "Typ": "Physisch"},
+          {"Gefährdung": "Schnittverletzungen beim Verpacken / Öffnen", "Typ": "Physisch"}
+        ]
+      },
+      {
+        "Tätigkeit": "Transport innerhalb des Hotels",
+        "Gefährdungen": [
+          {"Gefährdung": "Kollision / Stolpergefahr mit Wagen oder Hubsystemen", "Typ": "Physisch"},
+          {"Gefährdung": "Lärm durch Fördertechnik", "Typ": "Physisch"},
+          {"Gefährdung": "Rückenbelastung beim Schieben / Ziehen", "Typ": "Physisch"}
+        ]
+      }
+    ]
+  }
+}
 
